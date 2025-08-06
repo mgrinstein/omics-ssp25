@@ -1,6 +1,6 @@
 # Transcriptomic Data Analysis for NASA OSD-599 Dataset
 
-## Dataset
+## Study Description
 
 This analysis uses data from the NASA study **OSD-599 Version 4: Transcriptomic Effects on the Mouse Heart Following 30 Days on the International Space Station (ISS)**, available at [NASA OSDR Repository](https://osdr.nasa.gov/bio/repo/data/studies/OSD-599). It aims to study the effects of microgravity on the heart-brain axis by exploring upregulated and downregulated genes, and performing Gene Set Enrichment Analysis (GSEA) to connect them to corresponding relevant biological pathways.
 
